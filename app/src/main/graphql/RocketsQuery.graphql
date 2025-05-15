@@ -1,0 +1,9 @@
+query RocketsQuery {
+    rockets {
+       name
+       company
+       country
+       description
+       wikipedia
+    }
+}

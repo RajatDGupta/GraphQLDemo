@@ -1,0 +1,6 @@
+query HistoriesQuery {
+  histories {
+    details
+    title
+  }
+}
